@@ -50,7 +50,6 @@ Sitio web para estudio de videojuegos desarrollado con React, Three.js y animaci
 
 ## 📚 Actualmente aprendiendo
 
-- Seguridad ofensiva y defensiva
 - Arquitectura de agentes autónomos
 - Sistemas distribuidos
 - Ciberdefensa aplicada
@@ -59,5 +58,6 @@ Sitio web para estudio de videojuegos desarrollado con React, Three.js y animaci
 
 ## 📫 Contacto
 
-- LinkedIn: Próximamente
+- LinkedIn:https://www.linkedin.com/in/gino-scoccia-b45766225/
+
 - Portfolio: Próximamente
